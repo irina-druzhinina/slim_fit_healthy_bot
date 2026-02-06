@@ -27,7 +27,7 @@ pip install -r requirements.txt
 3. Создать файл .env и заполнить его токеном Telegram-бота и  API ключом для OpenWeatherMap:
 ```text
 BOT_TOKEN=<your_bot_token_here>
-ENWEATHERMAP_API_KEY = <your_api_key>
+OPENWEATHERMAP_API_KEY = <your_api_key>
 ```
 4. Запустить бота:
 python app.py
